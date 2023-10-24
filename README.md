@@ -12,3 +12,7 @@ Este repositório armazena somente conteúdos referente ao curso de pós da grad
 * classes_objeto.js - Criando um objeto utilizando Classes.
     * Trabalhando com heranças;
     * Trabalhando com polimorfismo;
+* Aula_03.js
+    * Herança prototipada;
+    * Metodos/Atributos estaticos;
+    * Visibilidade;
